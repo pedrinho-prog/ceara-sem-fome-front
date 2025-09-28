@@ -55,6 +55,4 @@ Os fluxos de navegação garantem uma experiência de usuário eficiente:
 | **Frontend** | **React** | Biblioteca TypeScript para a construção da interface de usuário. |
 | **Estilização** | **Tailwind CSS** | Framework CSS *utility-first* para garantir agilidade e design responsivo. |
 
-A ser definido pela equipe, mas a arquitetura deve ser robusta e escalável, suportando um alto volume de transações e a coleta de dados para análise.
-
 
