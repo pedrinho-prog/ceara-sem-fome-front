@@ -2,13 +2,11 @@
 
 ## Visão Geral do Projeto
 
-O **Sistema de Crédito Social Comunitário** é uma plataforma digital projetada para facilitar a distribuição e o uso de **créditos internos (sociais)** em uma comunidade ou rede de comércios locais. O objetivo principal é promover o consumo em estabelecimentos parceiros, gerenciar o fluxo de produtos e créditos, e coletar dados para análise nutricional e social da comunidade.
+**escrever pós briefing**
 
 ---
 
 ## 🏗️ Estrutura e Módulos do Sistema
-
-O sistema é dividido em **oito módulos funcionais** principais, organizados para garantir uma clara separação de responsabilidades.
 
 | Módulo | Foco Principal | Telas Chave | Funcionalidade Principal |
 | :--- | :--- | :--- | :--- |
@@ -50,15 +48,13 @@ Os fluxos de navegação garantem uma experiência de usuário eficiente:
 
 ---
 
-## 🛠️ Tecnologias Sugeridas
+## 🛠️ Tecnologias
+
+| Camada | Tecnologia | Propósito |
+| :--- | :--- | :--- |
+| **Frontend** | **React** | Biblioteca TypeScript para a construção da interface de usuário. |
+| **Estilização** | **Tailwind CSS** | Framework CSS *utility-first* para garantir agilidade e design responsivo. |
 
 A ser definido pela equipe, mas a arquitetura deve ser robusta e escalável, suportando um alto volume de transações e a coleta de dados para análise.
 
----
 
-## 📝 Contato
-
-Para dúvidas ou contribuições, contate o mantenedor do projeto.
-
-***
-*Este README será atualizado à medida que o projeto avança nas fases de desenvolvimento e prototipagem.*
