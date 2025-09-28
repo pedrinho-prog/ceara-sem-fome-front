@@ -1,4 +1,4 @@
-# 🚀 Sistema de Crédito Social Comunitário
+# 🚀 Ceará sem Fome
 
 ## Visão Geral do Projeto
 
